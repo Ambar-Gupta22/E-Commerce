@@ -1,6 +1,6 @@
 ## 🖼️ Screenshot
 
-![Homepage Screenshot](![image](https://github.com/user-attachments/assets/61899e2c-e7a9-4137-82f1-0fae27b9e840)
+![Homepage Screenshot](![image](![image](https://github.com/user-attachments/assets/92379c61-a43f-43a1-8fc8-f4ed4c3338bb)
 )
 
 ---
