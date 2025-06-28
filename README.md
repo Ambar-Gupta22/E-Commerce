@@ -1,10 +1,11 @@
-<h1 align="center">E-Commerce Store 🛒</h1>
+## 🖼️ Screenshot
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Homepage Screenshot](![image](https://github.com/user-attachments/assets/61899e2c-e7a9-4137-82f1-0fae27b9e840)
+)
 
-[Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
+---
 
-About This Course:
+About This Project:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
