@@ -1,8 +1,6 @@
 ## 🚀 Homepage Preview
 
-![Screenshot](![image](https://github.com/user-attachments/assets/0281b6d5-53da-45cd-af0e-434346216080)
-)
-
+![image](https://github.com/user-attachments/assets/ed9b8477-2253-4759-8cbb-45cd61ae7e4a)
 
 ---
 
