@@ -1,7 +1,8 @@
-## 🖼️ Screenshot
+## 🚀 Homepage Preview
 
-![Homepage Screenshot](![image](![image](https://github.com/user-attachments/assets/92379c61-a43f-43a1-8fc8-f4ed4c3338bb)
+![Screenshot](![image](https://github.com/user-attachments/assets/0281b6d5-53da-45cd-af0e-434346216080)
 )
+
 
 ---
 
